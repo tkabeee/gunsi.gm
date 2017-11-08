@@ -1,0 +1,12 @@
+var command = {
+
+  'column': 'a',
+  'row': 1,
+  'type': 'attack',
+  'topChainColumn': '?', // 端をあらわす単語
+  'topChainRow': '0',
+  'rightChain': '',
+  'bottomChain': '',
+  'leftChain': '',
+  ''
+}
